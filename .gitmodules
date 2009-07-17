@@ -1,0 +1,3 @@
+[submodule "js/library-a"]
+	path = js/library-a
+	url = git@git.smart.joyent.com:library-a.smart.joyent.com.git
